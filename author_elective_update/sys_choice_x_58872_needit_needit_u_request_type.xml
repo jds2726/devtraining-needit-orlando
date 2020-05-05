@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="u_request_type" table="x_58872_needit_needit" version="3">
+        <sys_choice_set action="DELETE">
+            <element>u_request_type</element>
+            <name>x_58872_needit_needit</name>
+            <sys_class_name/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id/>
+            <sys_mod_count/>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_scope/>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2020-05-05 15:44:49</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application/>
+        <file_path/>
+        <instance_id>1cf547cddbd3b38891232f17d49619eb</instance_id>
+        <instance_name>dev91468</instance_name>
+        <name>sys_choice_x_58872_needit_needit_u_request_type</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="u_request_type" table="x_58872_needit_needit" version="3"><sys_choice_set action="DELETE"><element>u_request_type</element><name>x_58872_needit_needit</name><sys_class_name/><sys_created_by/><sys_created_on/><sys_id/><sys_mod_count/><sys_name/><sys_package/><sys_policy/><sys_scope/><sys_update_name/><sys_updated_by/><sys_updated_on>2020-05-05 15:44:49</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>1828161538</payload_hash>
+        <record_name>Task.u_request_type</record_name>
+        <reverted_from/>
+        <source>795f2c8e2f689810c311ffecf699b63a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-05 15:44:49</sys_created_on>
+        <sys_id>8fc822522f68d810c311ffecf699b614</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171e582d8d80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-05 15:44:49</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>c7c822520668d8106a0830d6f0376314</update_guid>
+        <update_guid_history>c7c822520668d8106a0830d6f0376314:1828161538,43c822522b68d810067898187b58cc11:1429053012,8fc822525b68d81063a522c18385100d:-1514400100,6b5fe0ceb26898103f80e9edc6656b48:0,d84fa88e0668981033ca04c8e48959cd:1174597584,1c4fa88e4f6898106f2ea437621107c9:-1701966180,584fa88e2f689810b4778bfb2ab0d9c6:736548692,944fa88eda6898106d7cfb4c01d327c3:833312879,39ef2430f1e8d410f17b8c4b100ad90c:0,ffcf6cfc88a8d410a60eb652dd137587:-2125511632,b3cf6cfcf9a8d410921f8779e9e00d84:-1701966180,73cf6cfc3fa8d410192e68e5a66e2081:736548692,33cf6cfc7fa8d4101e9efce1ffda047e:833312879,530ad8285820d4109c4dc02677048a92:0,51f954286d20d41086a0d5f71890ba73:186318476,15f954285420d410d374fea4a4d7a46f:-1701966180,c1f95428ce20d41062893797d526b36c:736548692,81f954289d20d410ca8ccced05505c69:833312879,2ac3dce09720d410fac20a01deb416ba:0,25a394e0cc20d41000752d691840715b:-565970770,e5a394e0dd20d410ca10a56f35f73557:-1701966180,a5a394e0a120d4109ce301b2e697dd54:736548692,65a394e00320d4107e79ed132b3f3551:833312879,aa7c36445ee0941072d46b699d4566ca:0,236c7244b6e09410c1b74025b798929a:1828161538,ab6c724432e094101ff60293eaef1a96:-1701966180,a76c7244f8e09410422330e21cb27493:736548692,a36c7244c1e09410e1c56e034b942990:833312879,ba09aec4fca094107a7a3ca17e0c91b1:0,64f8a6c4c1a09410de4ecf0a4686e540:1828161538,60f8a6c4d1a09410d359939dc139003d:-1701966180,10f8a6c471a09410896a2495afaae93a:736548692,dcf8a6c4c8a09410737d20c202d58b36:833312879,df7f71f387d45410cf02e6a81c218bd2:0,575f39b3e6d4541047cf3c0c3ea048df:1828161538,535f39b3cfd45410288322c47285f4dc:1429053012,135f39b34ed454107c91bbf4bc976dd9:-1514400100,56882e60cb5890103dfb2b68c65b407d:0,e178e66057589010768823eecd790dd6:1712646706,6578e6603c589010a1d1176199c5d9d2:-1701966180,e178e660bc5890107077520381bd0ccf:736548692,6178e660fc5890103c17d30b8f856fcc:833312879,636e7d646ad4901036330b2634cefc3e:0,335e796441d49010a27bb86e6229ee4b:1828161538,fb5e7964ded49010b236566d9d88fb47:1429053012,7b5e7964bdd490104fd06707162f7144:-1514400100,4a721808991050109d8f645fd7508303:0,4262d0081e105010deac09c59029b359:-1539134599,c262d00818105010e3a075533be4f055:-1701966180,4262d00881105010c9e0eb5c0e4cf452:736548692,ce62d0089f1050103996b7c28b3dfa4e:833312879,3f73c84c0edc1010f7238d0f8c1cf994:0,9d73084ca2dc1010e4ac0b55c83c4543:1828161538,5973084c50dc10102feddbf4a2f91440:-1482339146,c573084cc2dc10104bf6a353d799163d:-1811179215,4573084c1fdc10107f68685b318a023a:732039545,f360c76f35c01010c3cf8235681041f2:2393854</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-05 15:45:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>7ee82a522f68d810c311ffecf699b624</sys_id>
+        <sys_metadata>7ee82a522f68d810c311ffecf699b624</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_request_type</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_choice_x_58872_needit_needit_u_request_type</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_58872_needit_needit_u_request_type">8fc822522f68d810c311ffecf699b614</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-05 15:45:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
